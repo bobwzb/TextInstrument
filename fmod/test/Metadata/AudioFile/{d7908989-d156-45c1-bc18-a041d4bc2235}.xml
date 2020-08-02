@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{d7908989-d156-45c1-bc18-a041d4bc2235}">
+		<property name="assetPath">
+			<value>12 B3LnV - Part 1 - Layer - Perc.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>39.456000000000003</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{44fa6691-d47e-4cf6-9e93-3e1bfb76c698}</destination>
+		</relationship>
+	</object>
+</objects>
